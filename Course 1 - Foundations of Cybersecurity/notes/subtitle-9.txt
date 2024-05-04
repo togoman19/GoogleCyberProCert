@@ -1,0 +1,27 @@
+My name is Herbert and
+I am a Security Engineer at Google. I think I've always been
+interested in security, in high school our school gave
+us these huge Dell laptops. There wasn't a whole lot of
+security within those computers. So, many of my friends would have cracked
+versions of like video games like Halo, that's really where I learned how to start
+manipulating computers to kind of do what I want. I guess [LAUGH] my day to day consists
+of analyzing security risks and providing solutions to those risks. A typical task for cybersecurity analysts would usually
+be something like exceptions requests. Analyzing if someone needs to have
+special access to a device or document based on the role that the person has or
+the project that they're working on. One of the more common threats that we
+come across is misconfigurations or requesting access for
+something that you don't really need. For example,
+I recently had a case where a vendor we were working with had changed
+their OAuth scope requests. And basically that means that they were
+requesting more permissions to use Google services than they had before in the past. We weren't sure really how to go
+about that because that wasn't a situation we've come across before. So it's still ongoing, but we're working with partner teams to
+kind of develop a solution for that. I think another thing that
+we've seen is outdated systems, machines that need to be patched. That sounds like an IT issue, but it's
+also definitely a cybersecurity issue. Having outdated machines, not having
+proper device management policies, working with a team or
+many teams is a huge part of the job. In order to get really anything done, you
+need to communicate with not just the team that you're a part of,
+but with other teams. Ten years ago I was working at
+a pizza joint and ten years later, here I am, at Google as a Security Engineer. If I told my 16 year old
+self that I would be here, I wouldn't have believed myself,
+but it is possible.

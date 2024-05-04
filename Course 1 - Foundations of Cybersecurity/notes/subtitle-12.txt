@@ -1,0 +1,20 @@
+Welcome back!
+As a security analyst, your job isn't just
+keeping organizations safe. Your role is much
+more important. You're also helping
+to keep people safe. Breaches that affect
+customers', vendors', and employees' data can
+cause significant damage to people's financial stability
+and their reputations. As an analyst, your
+day-to-day work will help keep people
+and organizations safe. In this section of the course, we'll discuss security
+frameworks, controls, and design principles in more
+detail, and how they can be applied to security
+audits to help protect organizations
+and people. Keeping customer
+information confidential is a crucial part of my
+daily work at Google. The NIST Cybersecurity Framework plays a large part in this. The framework ensures the
+protection and compliance of customer tools and
+personal work devices through the use of
+security controls. Welcome to the world of security
+frameworks and controls. Let's get started!

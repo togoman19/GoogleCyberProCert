@@ -1,0 +1,28 @@
+Great job! Now you've had an opportunity to
+learn more about security concepts that can help an organization protect
+data and assets. We've covered quite a bit, but it will all be valuable
+knowledge for you as you continue along your journey
+into the security profession. We started by defining what
+security frameworks are, and how they help organizations protect critical information. We also explored
+security controls and the important role they play in protecting against risks, threats, and
+vulnerabilities. This included a discussion
+of the CIA triad, which is a core security model,
+and two NIST frameworks: the CSF and S.P. 800-53. Then, we covered some of OWASP's
+secure design principles. We ended by introducing
+security audits with a focus on the elements of an
+internal audit that you may be asked to complete
+or contribute to. Security professionals use
+the concepts we discussed to help protect
+organizations' assets, data, systems, and people. As you continue along your journey into the
+security profession, a lot of these concepts
+will come up repeatedly. What we're doing
+now is giving you a foundational understanding of security practices and topics that will help you
+along the way. In the next section
+of the course, we'll discuss specific
+security tools you may one day
+use as an analyst. We'll cover how they're
+used to improve an organization's
+security posture and how they can help
+you achieve your goal of keeping organizations
+and people safe. I'm excited to continue this journey with
+you. See you soon!

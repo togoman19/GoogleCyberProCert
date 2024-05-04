@@ -1,0 +1,15 @@
+The world of security,
+which we also refer to as cybersecurity throughout
+this program, is vast. So making sure that you have
+the knowledge, skills, and tools to successfully navigate
+this world is why we're here. In the following videos, you'll learn about the focus of
+CISSP's eight security domains. Then, we'll discuss threats, risks,
+and vulnerabilities in more detail. We'll also introduce you to
+the three layers of the web and share some examples to help you understand
+the different types of attacks that we'll discuss throughout the program. Finally, we'll examine how to manage
+risks by using the National Institute of Standards and Technology's Risk Management
+Framework, known as the NIST RMF. Because these topics and related technical skills are considered
+core knowledge in the security field, continuing to build your understanding
+of them will help you mitigate and manage the risks and threats that
+organizations face on a daily basis. In the next video, we'll further
+discuss the focus of the eight security domains introduced in the first course.

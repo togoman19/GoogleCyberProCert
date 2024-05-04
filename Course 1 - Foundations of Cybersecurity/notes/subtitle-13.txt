@@ -1,0 +1,38 @@
+In an organization, plans
+are put in place to protect against a variety of threats,
+risks, and vulnerabilities. However, the requirements
+used to protect organizations and
+people often overlap. Because of this, organizations
+use security frameworks as a starting point to create their own security
+policies and processes. Let's start by quickly
+reviewing what frameworks are. Security frameworks are
+guidelines used for building plans to help mitigate risks and threats to data and privacy, such as social engineering
+attacks and ransomware. Security involves more than
+just the virtual space. It also includes the physical, which is why many
+organizations have plans to maintain safety
+in the work environment. For example, access
+to a building may require using a
+key card or badge. Other security
+frameworks provide guidance for how to prevent, detect, and respond
+to security breaches. This is particularly important when trying to protect
+an organization from social engineering attacks like phishing that target
+their employees. Remember, people are the
+biggest threat to security. So frameworks can be used to
+create plans that increase employee awareness and
+educate them about how they can protect
+the organization, their co-workers,
+and themselves. Educating employees about
+existing security challenges is essential for minimizing the
+possibility of a breach. Providing employee
+training about how to recognize red flags, or
+potential threats, is essential, along with
+having plans in place to quickly report and
+address security issues. As an analyst, it will be important for you
+to understand and implement the plans
+your organization has in place to keep
+the organization, its employees, and
+the people it serves safe from social
+engineering attacks, breaches, and other harmful
+security incidents. Coming up, we'll review and discuss security
+controls, which are used alongside frameworks to achieve an organization's
+security goals.
